@@ -14,10 +14,10 @@ This open innovation challenge invites participants from diverse backgrounds to 
 The goal is to reimagine and redefine global mobility, addressing not only safety concerns but also the broader environmental impact. Participants are encouraged to think beyond conventional boundaries and contribute ideas that can revolutionize the way we move and connect.
 
 <h1>Video Link:</h1>
-<a href="">Link for the video</a>
+<a href="https://drive.google.com/drive/folders/1WEurOa9uQkCnPJPHdXuNxDnHTsBjwZY6?usp=sharing">Link for the video</a>
 
 <h1>Presentation</h1>
-<a href="">PPT Link</a>
+<a href="https://drive.google.com/drive/folders/1WEurOa9uQkCnPJPHdXuNxDnHTsBjwZY6?usp=sharing">PPT Link</a>
 
 <h1>Website URL:</h1>
-<a href="">Website link</a>
+<a href="http://javachipnoor.netlify.app">Website link</a>
