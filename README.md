@@ -1,4 +1,4 @@
-<h1Noor - Sustainable global mobility</h1>
+<h1>Noor - Sustainable global mobility</h1>
 This is a group project made for the IEEE IC Hack 2.0.Our product noor which helps maintain a sustainable global mobility throughout the world.
 
 <h1>Teammates:</h1> 
