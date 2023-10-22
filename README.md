@@ -2,7 +2,7 @@
 This is a group project made for the IEEE IC Hack 2.0.Our product noor which helps maintain a sustainable global mobility throughout the world.
 
 <h1>Teammates:</h1> 
-<a href="https://github.com/Dinidigo">Dinesh Gokul Das,</a>,
+<a href="https://github.com/Dinidigo">Dinesh Gokul Das,</a>
 <a href="https://github.com/Gayathri180102">Gayathri M R,</a>
 <a href="https://github.com/madhumithaj15">Madhumitha J.</a>
 
